@@ -12,7 +12,7 @@
   "datoCmsPlugin": {
     "title": "Datocms Plugin Thumbnail",
     "coverImage": "docs/cover-1200x800.png",
-    "previewImage": "docs/preview.mp4",
+    "previewImage": "docs/cover-1200x800.png",
     "entryPoint": "dist/index.html",
     "permissions": []
   },
