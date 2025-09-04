@@ -20,6 +20,7 @@ connect({
 	manualFieldExtensions(ctx: ManualFieldExtensionsCtx) {
 
 		//console.log(ctx);
+		ctx;
 
 		return [
 			{
